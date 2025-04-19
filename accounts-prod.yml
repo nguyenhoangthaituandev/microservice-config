@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to NguyenHoangThaiTuan accounts related prod APIs "
+  message: "Welcome to NguyenHoangThaiTuan accounts related production APIs "
   contactDetails:
     name: "John Doe - product"
     email: "{cipher}44a3a0dc84981e3ed31849960880cb4fd73db85aa07ab6c84366e6606f70817177b6aab4ec4d6ddaebd9471e02c47f08"
