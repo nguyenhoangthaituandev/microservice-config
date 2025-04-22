@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to NguyenHoangThaiTuan cards related proddd APIs "
+  message: "Welcome to NguyenHoangThaiTuan cards related webhook APIs "
   contactDetails:
     name: "John Doe - Production"
     email: "john@eazybank.com"
